@@ -1,0 +1,46 @@
+//definición de Clase 
+
+Public class nodo3{
+ 
+/* Definición de variables con asignación opcional 
+
+Definición de constructores y metodos @&&Â¡?
+
+*/ 
+
+int x = 0; 
+@& ?
+//declarando un entero
+
+ConsoleWrite.line(x); // se imprime el valor de la variable x
+
+String texto = "texto"; 
+
+/*
+
+se ha creado una variable de tipo stringe
+
+*/
+
+if(x == 0){ 
+// condicion
+
+ConsoleWrite.line(texto); 
+
+} 
+
+
+public int a1 = 10;
+
+
+for(int i=0; i<10;i+ +)
+{
+
+
+ConsoleWrite.line(i);
+
+
+
+}
+
+?@}

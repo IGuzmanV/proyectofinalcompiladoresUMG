@@ -1,0 +1,16 @@
+//definición de Clase 
+Public class hola {
+ /* Definición de variables con asignación opcional 
+Definición de constructores y metodos 
+*/ 
+int x = 0; //declarando un entero
+ConsoleWrite.line(x); // se imprime el valor de la variable x
+String texto = "texto"; 
+/*
+
+se ha creado una variable de tipo stringe
+*/
+if(x == 0){ // condicion
+ConsoleWrite.line(texto); 
+} 
+}
